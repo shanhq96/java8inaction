@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>section5_5</module>
+        <module>section6</module>
+        <module>section7</module>
     </modules>
     <properties>
         <maven-compiler-plugin.version>3.6.2</maven-compiler-plugin.version>

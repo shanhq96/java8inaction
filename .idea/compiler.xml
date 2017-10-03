@@ -9,11 +9,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="section5_5" />
+        <module name="section6" />
+        <module name="section7" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java8inaction" target="1.8" />
       <module name="section5_5" target="1.8" />
+      <module name="section6" target="1.8" />
+      <module name="section7" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

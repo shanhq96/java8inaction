@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java8inaction.iml" filepath="$PROJECT_DIR$/java8inaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/section5_5/section5_5.iml" filepath="$PROJECT_DIR$/section5_5/section5_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section6/section6.iml" filepath="$PROJECT_DIR$/section6/section6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section7/section7.iml" filepath="$PROJECT_DIR$/section7/section7.iml" />
     </modules>
   </component>
 </project>
